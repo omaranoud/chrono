@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+h1{
+    font-size: 32px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+.chrono{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    min-width: 500px;
+    transform: translate( -50%, -50% );
+}
+.temps{
+    margin: 0 20px 20px 20px;
+    font-size: 3.4em;
+    font-weight: 500;
+}
+.btn{
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 5px 30px !important;
+}
